@@ -1,0 +1,128 @@
+
+.font-montserrat{
+    font-family: 'Montserrat', sans-serif;
+}
+.font-15{
+    font-size: 15px;
+}
+.btn-blue{
+    background-color: #16AACE;
+}
+
+/* header */
+.header{
+    background: #1CADC6;
+background: -webkit-linear-gradient(left, #1CADC6, #3AB197);
+background: -moz-linear-gradient(left, #1CADC6, #3AB197);
+background: linear-gradient(to right, #1CADC6, #3AB197);
+}
+
+/* navbar */
+.brand-img{
+    width:190px;
+}
+
+/* home  */
+.home-heading{
+    color: black;
+    line-height: 50px;
+}
+.home-para{
+    font-size:16px;
+    font-weight:500;
+    line-height: 28px;
+}
+.home-link{
+    color: #16AACE;
+    font-size:17px;
+}
+
+/* place */
+.place-container{
+    background-color: #E5F5FA;
+}
+
+/* service */
+.service-box:hover {
+    background: #EDF8FB;
+    border-radius:6px;
+    transition: .5s;
+    box-shadow: 0px 0px 4px 1px #ccc;
+}
+
+/* client */
+.client{
+    background: #1CADC6;
+background: -webkit-linear-gradient(left, #1CADC6, #3AB197);
+background: -moz-linear-gradient(left, #1CADC6, #3AB197);
+background: linear-gradient(to right, #1CADC6, #3AB197);
+} 
+.client-icon-box{
+    width: 80px;
+    height:80px;
+    border-radius:50%;
+    padding:8px;
+}
+
+/* works */
+.works-box{
+    background-color: #EDF8FB;
+}
+
+/* Founder & CEO */
+.founder-container{
+    background: #1EAEC5;
+background: -webkit-linear-gradient(top, #1EAEC5, #3AB198);
+background: -moz-linear-gradient(top, #1EAEC5, #3AB198);
+background: linear-gradient(to bottom, #1EAEC5, #3AB198);   
+}
+
+/* founder */
+.founder-1{
+    background-image: url('../assets/advisor-1.jpg');
+    width: 100%;
+}
+
+/* Testimonal */
+.testimonal-container{
+    width: 75%;
+}
+
+/* contact */
+input,
+input::-webkit-input-placeholder {
+    font-size: 20px;
+    line-height: 3;
+}
+textarea,
+textarea::-webkit-input-placeholder {
+    font-size: 20px;
+    line-height: 1;
+}
+input{
+    width:100%;
+    border:1px solid black;
+    border-radius:4px;
+}
+textarea{
+    width:100%;
+    height:200px;
+    border:1px solid black;
+    border-radius:4px
+}
+/* location */
+.btn-default{
+    background: #1CADC6;
+background: -webkit-linear-gradient(left, #1CADC6, #3AB197);
+background: -moz-linear-gradient(left, #1CADC6, #3AB197);
+background: linear-gradient(to right, #1CADC6, #3AB197);
+
+}
+
+/* footer */
+.footer{
+    background: #262626;
+}
+.footer-text{
+    color: #FFFFFF;
+}

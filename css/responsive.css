@@ -1,0 +1,28 @@
+@media(max-width:768px) {
+
+    /* navbar */
+    .brand-img {
+        width: 160px;
+    }
+
+    /* home  */
+    .home-heading {
+        font-size: 26px;
+        line-height: 35px;
+    }
+
+    .home-para {
+        font-size: 13px;
+        line-height: 25px;
+    }
+
+    .home-link{
+        font-size: 15px;
+    }
+
+    /* Testimonal */
+.testimonal-container{
+    width: 100%;
+    text-align: justify;
+}
+}
